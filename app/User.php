@@ -25,7 +25,7 @@ class User extends Authenticatable
     ];
 
     //取得所有屬於該 user 的 task
-    public function task(){
+    public function tasks(){
         return $this->hasMany(Task::class);
     }
 }

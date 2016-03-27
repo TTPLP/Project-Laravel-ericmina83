@@ -24,7 +24,7 @@ class Authenticate
                 return redirect()->guest('login');
             }
         }
-
+        //return redirect('/tasks');
         return $next($request);
     }
 }
