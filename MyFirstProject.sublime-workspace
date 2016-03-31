@@ -1,0 +1,866 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"compat",
+				"compact〔function〕"
+			],
+			[
+				"message",
+				"message_id"
+			],
+			[
+				"mess",
+				"message_id"
+			],
+			[
+				"lin",
+				"line-height: 〔property〕"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"resp",
+				"responses"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"st",
+				"style='text"
+			],
+			[
+				"dir",
+				"dirname〔function〕"
+			],
+			[
+				"incl",
+				"include〔keyword〕"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"class",
+				"class=BOX"
+			],
+			[
+				"pass",
+				"$password2〔variable〕"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"au",
+				"$author〔variable〕"
+			],
+			[
+				"_se",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"session_",
+				"session_id〔function〕"
+			],
+			[
+				"has",
+				"hashcode"
+			],
+			[
+				"p",
+				"$password2〔variable〕"
+			],
+			[
+				"unset",
+				"unset〔function〕"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"show",
+				"showAlertView〔function〕"
+			],
+			[
+				"_SE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"filenam",
+				"$fileName〔variable〕"
+			],
+			[
+				"fil",
+				"$fileName〔variable〕"
+			],
+			[
+				"fileN",
+				"$fileName〔variable〕"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"chec",
+				"checkMemberData〔function〕"
+			],
+			[
+				"insert",
+				"insertMemberData〔function〕"
+			],
+			[
+				"ha",
+				"$hashcode〔variable〕"
+			],
+			[
+				"ini",
+				"ini_array"
+			],
+			[
+				"tr",
+				"try	Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"exec",
+				"executeQueryWithPrepare"
+			],
+			[
+				"fore",
+				"foreign_key"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"h",
+				"$hash〔variable〕"
+			],
+			[
+				"data",
+				"$data〔variable〕"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"_SEE",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_array〔function〕"
+			],
+			[
+				"mysql_fech",
+				"mysql_fetch_row"
+			],
+			[
+				"json",
+				"json_decode〔function〕"
+			],
+			[
+				"fh",
+				"$fh〔variable〕"
+			],
+			[
+				"u",
+				"useremail"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"tmp",
+				"tmp_data"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"ME",
+				"$MESSAGES〔variable〕"
+			],
+			[
+				"fget",
+				"fgets〔function〕"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"setUser",
+				"setUserEmail〔function〕"
+			],
+			[
+				"con",
+				"$content〔variable〕"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"clos",
+				"closedir〔function〕"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"strin",
+				"String"
+			],
+			[
+				"else",
+				"else〔keyword〕"
+			],
+			[
+				"SEEK",
+				"SEEK_SET〔constant〕"
+			],
+			[
+				"els",
+				"else〔keyword〕"
+			],
+			[
+				"prin",
+				"printf〔function〕"
+			],
+			[
+				"obj",
+				"$object1〔variable〕"
+			],
+			[
+				"ob",
+				"$object1〔variable〕"
+			],
+			[
+				"stat",
+				"$static_property〔variable〕"
+			],
+			[
+				"te",
+				"$temp〔variable〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"par",
+				"$param_password〔variable〕"
+			],
+			[
+				"param_",
+				"param_password"
+			],
+			[
+				"my",
+				"$myobject1〔variable〕"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"lon",
+				"longdatedate"
+			],
+			[
+				"array",
+				"array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/MessageController.php",
+			"settings":
+			{
+				"buffer_size": 247,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/messages/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Add Repository",
+				"Package Control: Add Repository"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 744.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Http",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Http/Controllers",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/resources",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/resources/views",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/resources/views/messages"
+	],
+	"file_history":
+	[
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Http/Middleware/Authenticate.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/resources/views/layouts/app.blade.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Http/Controllers/MessageController.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Http/routes.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Response.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/User.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Message.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/database/migrations/2016_03_30_205843_add_user_id_column_to_responses.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/database/migrations/2016_03_30_205004_create_responses_table.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/database/migrations/2016_03_30_204813_create_messages_table.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/resources/views/layouts/app.blade.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/app/Http/Controllers/MessageController.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/resources/views/Message/index.blade.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/app/Http/routes.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/app/Message.php",
+		"/Users/Eric/Desktop/question_1_pointer_(i).html",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/resources/views/Message/show.blade.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/app/Http/Controllers/Auth/AuthController.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/resources/views/Message/index.blade.app",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/app/Response.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/app/User.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/database/migrations/2016_03_29_085656_create_users_table.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/database/migrations/2016_03_29_090040_create_responses_table.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/database/migrations/2016_03_29_090011_create_message_table.php",
+		"/Users/Eric/Documents/workspace/Laravel/Guestbook/.env",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Repositories/TaskRepository",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/resources/views/tasks/index.blade.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/resources/views/common/errors.blade.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Http/Controllers/TaskController.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Task.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Http/Controllers/Controller.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/app/Http/Controllers/Auth/AuthController.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/.env",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/database/migrations/2016_03_26_163440_create_tasks_table.php",
+		"/Users/Eric/Documents/workspace/Laravel/MyFirstProject/database/migrations/2016_03_26_163311_create_tasks_table.php",
+		"/Users/Eric/Desktop/q1.html",
+		"/Users/Eric/Desktop/q3.html",
+		"/Users/Eric/Desktop/q2.html",
+		"/Users/Eric/Desktop/Q2.md",
+		"/Users/Eric/my-project/resources/views/layout.blade.php",
+		"/Users/Eric/my-project/resources/views/tasks.blade.php",
+		"/Users/Eric/my-project/app/Http/routes.php",
+		"/Users/Eric/my-project/resources/views/common/errors.blade.php",
+		"/Users/Eric/my-project/resources/views/cards/index.blade.php",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Eric/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Eric/my-project/app/Card.php",
+		"/Users/Eric/my-project/resources/views/love.blade.php",
+		"/Users/Eric/my-project/database/migrations/2016_03_16_220004_create_cards_table.php",
+		"/Users/Eric/my-project/app/Http/Controllers/PageController.php",
+		"/Users/Eric/my-project/.env",
+		"/Users/Eric/my-project/resources/views/vendor/cards/index.blade.php",
+		"/Users/Eric/my-project/resources/views/welcome.blade.php",
+		"/Users/Eric/my-project/resources/love.blade.php",
+		"/Users/Eric/blog/.env",
+		"/Users/Eric/blog/database/migrations/2016_03_16_174453_create_tasks_table.php",
+		"/Users/Eric/Desktop/test.md",
+		"/test.md",
+		"/Users/Eric/test/test.php",
+		"/Users/Eric/test/untitled",
+		"/Users/Eric/Desktop/debian-test/Guestbook/public/default.css",
+		"/Users/Eric/Downloads/index.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/message/add_response.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/add_response.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/css/layout.css",
+		"/Users/Eric/Desktop/debian-test/Guestbook/guestbook/index.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/process/login.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/public/Typed/typed.js",
+		"/Users/Eric/Desktop/debian-test/Guestbook/xxx.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/process/add_message.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/guestbook/index2.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/database_config.ini",
+		"/Users/Eric/Downloads/wordpress/wp-load.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/index.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/register/index.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/process/register.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/guestbook/guestbook_test.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/install/install.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/member/member_edit.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/message/index.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/message/message_edit.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/css/layout_guestbook.css",
+		"/Users/Eric/Desktop/debian-test/Guestbook/process/logout.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/logincheck.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/autoload.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/member/index.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/Database/database.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/message/message_page.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/Database/log.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/database_config.ini.sample",
+		"/Users/Eric/Desktop/debian-test/Guestbook/database_config.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/install/test.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/.gitignore",
+		"/Users/Eric/Desktop/debian-test/Guestbook/Database/database_config.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/install/data_csv/message.csv",
+		"/Users/Eric/Desktop/debian-test/Guestbook/login.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/layout/index.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/Database/database_config.php.sample",
+		"/Users/Eric/Desktop/debian-test/Guestbook/Hash/register64.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/layout/guestbook.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/layout/member_manage.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/layout/member_page.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/layout/register.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/layout/message_page.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/layout/member_edit.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/Hash/hash.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/Database/hash.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/install/data_csv/response.csv",
+		"/Users/Eric/Desktop/debian-test/Guestbook/install/data_csv/mail.csv",
+		"/Users/Eric/Desktop/debian-test/Guestbook/install/data_csv/member.csv",
+		"/Users/Eric/Desktop/debian-test/Guestbook/database.ini.php",
+		"/Users/Eric/Desktop/debian-test/Guestbook/register.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/index.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/guestbook_layout.html",
+		"/Users/Eric/Desktop/debian-test/Guestbook/database_config.php.sample",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/message_board.php",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/process.php",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/edit_process.php",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/show.php",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/data.json",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/message_edit.php",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/index.php",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/member.php",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/logout.php",
+		"/Users/Eric/Desktop/debian-test/MyMessageBoard/register_finish.php"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"\");",
+			"response",
+			"typed-cursor",
+			"dirname",
+			"email",
+			"(\"\");\n",
+			"$this",
+			"public",
+			"content",
+			"messages",
+			"username",
+			".txt",
+			"\\\">\";?>\n",
+			">\n",
+			"\n		",
+			"exec_cmds",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/MessageController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/messages/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1449313188.49629":
+	{
+		"height": 100.0
+	},
+	"output.1449313643.51791":
+	{
+		"height": 100.0
+	},
+	"output.1449315812.175427":
+	{
+		"height": 100.0
+	},
+	"output.1449316429.948066":
+	{
+		"height": 100.0
+	},
+	"output.1449507517.778855":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/Arduino/xxx|1449313685.785493":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/Arduino/xxx|1449315303.280034":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/Arduino/xxx|1449315822.165334":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/Arduino/xxx|1449316436.017938":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449313589.51006":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449316457.474534":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449316474.370137":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449316508.895842":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449507751.606309":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449507829.369962":
+	{
+		"height": 100.0
+	},
+	"output.build|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449507882.822631":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 68.0
+	},
+	"output.upload|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449507939.566237":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449507969.908847":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449508046.172668":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449508310.849474":
+	{
+		"height": 100.0
+	},
+	"output.upload|/Users/Eric/Documents/workspace/Arduino/wreddy_go_fish|1449510127.423294":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "MyFirstProject.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.l",
+				"MyFirstProject/resources/views/layouts/app.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
